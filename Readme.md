@@ -1102,6 +1102,7 @@ Few handy commands you can use to interact with emulator/device, through termina
 - **Typography**
   - While custom typefaces can be used for branding, it is essential to stick to Roboto and Noto if possible, especially for body text, due to their clarity and optimistic nature.
   - Roboto covers Latin, Greek and Cyrillic extended scripts, with Noto filling in for other language scripts [[More Info]](https://material.google.com/style/typography.html#)
+  - Material text sizes XML for Android. Simple helper file for standard TextAppearance style sizes in material design. The sizes are provided by the material design documentation. [here](https://gist.github.com/webserveis/c8c7e001c617829caa61dae385113e00)
   - Weight balancing is an important aspect of typography, the fundamental concept of which is that the larger a typeface is, the less its weight should be so that it doesn't appear too thick and balances its weight with smaller typefaces of higher weights
   - Typography should align to a 4dp baseline grid, and maintain a minimum contrast ratio of 4.5:1 based on luminance values, with a recommended ratio being 7:1.
   - The ideal reading length for large blocks of text is 40 to 60 characters per line. Anything less is too narrow and anything more is too wide.
